@@ -1,4 +1,12 @@
 {
+    "vscode-color-picker.languages": [
+        "javascriptreact",
+        "python", 
+        "javascript", 
+        "typescript", 
+        "typescriptreact"
+        
+    ],
     "cSpell.words": [
         "Pressable"
     ]
